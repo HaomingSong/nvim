@@ -19,3 +19,6 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 EOF
 nvm install 20
+
+# install fd
+sudo apt-get install fd-find
