@@ -7,4 +7,4 @@
 vim.g.lazyvim_python_lsp = "basedpyright"
 -- Set to "ruff_lsp" to use the old LSP implementation version.
 -- vim.g.lazyvim_python_ruff = "ruff"
-vim.g.lazyvim_python_ruff = false
+-- vim.g.lazyvim_python_ruff = false
