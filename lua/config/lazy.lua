@@ -50,6 +50,7 @@ require("lazy").setup({
     rtp = {
       -- disable some rtp plugins
       disabled_plugins = {
+        "smart-yank",
         "gzip",
         -- "matchit",
         -- "matchparen",
